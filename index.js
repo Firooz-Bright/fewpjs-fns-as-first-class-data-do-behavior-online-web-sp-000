@@ -27,4 +27,5 @@ function greet(hour){
 function displayMessage(string) {
 	let el =document.getElementById('greeting');
 	el.innerText = string;
+	console.log(el)
 }
