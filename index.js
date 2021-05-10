@@ -1,4 +1,4 @@
-/* Given Code, don't edit */
+m /* Given Code, don't edit */
 
 document.querySelector("button").addEventListener("click", handleClick);
 
@@ -9,7 +9,6 @@ function handleClick(e) {
 }
 
 /* End Given Code, don't edit above here...*/
-
 
 
 function greet(hour){
@@ -24,8 +23,8 @@ function greet(hour){
    }
 }
 /* Write your implementation of displayMessage() */
+
 function displayMessage(string) {
 	let el =document.getElementById('greeting');
 	el.innerText = string;
-
 }
